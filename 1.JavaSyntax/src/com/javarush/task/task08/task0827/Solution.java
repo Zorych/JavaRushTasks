@@ -11,7 +11,7 @@ import java.util.Locale;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println(isDateOdd("DECEMBER 31 2016"));
+        System.out.println(isDateOdd("DECEMBER 30 2016"));
     }
 
     public static boolean isDateOdd(String date) {
