@@ -9,6 +9,7 @@ import java.io.IOException;
 public class Solution {
 
     public static void main(String[] args) {
+        int a = 5/0;
     }
 
     static class MyException extends NullPointerException {
